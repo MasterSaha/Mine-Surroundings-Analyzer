@@ -3,7 +3,9 @@ Mine Surroundings Analyzer &amp; Gas leakage alert - Using Z-Score Analysis
 
 ## Note: This is an Academic Project.
 Submitted in partial fulfillment of the requirements for Degree of Bachelor of Engineering.
+
 DEPARTMENT OF INFORMATION TECHNOLOGY
+
 S.B. JAIN INSTITUTE OF TECHNOLOGY, MANAGEMENT & RESEARCH, NAGPUR.
 
 Key Words— Internet of Things, Mine Surroundings Analyzer, Z-Score
