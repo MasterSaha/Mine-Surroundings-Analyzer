@@ -14,7 +14,7 @@ loss. It needs to be detected at an early stage so that we can offer assistance 
 
 #### PROJECT BACKGROUND
 
-   <p>Underground mining operations proves to be an adventure as far because the safety
+<p>Underground mining operations proves to be an adventure as far because the safety
 and health of workers are concerned. These risks are because different techniques used for
 extracting different minerals. Underground mining industry comes to the category, where
 each and every parameter such as methane gas, high temperature, fire accidents and so on
