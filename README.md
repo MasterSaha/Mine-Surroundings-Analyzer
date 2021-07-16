@@ -6,7 +6,7 @@ Submitted in partial fulfillment of the requirements for Degree of Bachelor of E
 DEPARTMENT OF INFORMATION TECHNOLOGY
 S.B. JAIN INSTITUTE OF TECHNOLOGY, MANAGEMENT & RESEARCH, NAGPUR.
 
-Key Words— Internet of Thing, Mine Surroundings Analyzer, Z-Score
+Key Words— Internet of Things, Mine Surroundings Analyzer, Z-Score
 
 # PROJECT BACKGROUND
    Underground mining operations proves to be an adventure as far because the safety
