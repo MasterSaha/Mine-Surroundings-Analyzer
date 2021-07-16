@@ -8,13 +8,13 @@ S.B. JAIN INSTITUTE OF TECHNOLOGY, MANAGEMENT & RESEARCH, NAGPUR.
 
 Key Words— Internet of Things, Mine Surroundings Analyzer, Z-Score
 
-# PROBLEM STATEMENT
+## PROBLEM STATEMENT
 Toxic gases in Mines leads to various accident resulting in financial & human
 loss. It needs to be detected at an early stage so that we can offer assistance in saving lives.
 
-### PROJECT BACKGROUND
+#### PROJECT BACKGROUND
 
-   Underground mining operations proves to be an adventure as far because the safety
+   <p>Underground mining operations proves to be an adventure as far because the safety
 and health of workers are concerned. These risks are because different techniques used for
 extracting different minerals. Underground mining industry comes to the category, where
 each and every parameter such as methane gas, high temperature, fire accidents and so on
@@ -29,4 +29,4 @@ condition in mines can be detected. In which various parameters of environment s
 temperature, humidity, pressure is taken in concern. Implementing this project using ZScore analysis 
 to get instantaneous results and with high accuracy. Depending upon the
 certain conditions it will provide an alert to the authorities and miners to take further
-precautions.
+precautions.</p>
