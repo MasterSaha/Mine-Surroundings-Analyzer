@@ -5,9 +5,9 @@ Mine Surroundings Analyzer &amp; Gas leakage alert - Using Z-Score Analysis
 Submitted in partial fulfillment of the requirements for Degree of Bachelor of Engineering.
 
 Team Members:
-Ms. Namrata Thakre
-Ms. Shweta Lanjewar
-Mr. Himanshu Saha
+Ms. Namrata Thakre,
+Ms. Shweta Lanjewar,
+Mr. Himanshu Saha & 
 Ms. Vijayalaxmi Yelchalwar
 
 Guided By
