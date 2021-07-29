@@ -13,10 +13,10 @@ Ms. Vijayalaxmi Yelchalwar
 Guided By
 Prof. Mayuri Kawalkar
 
-DEPARTMENT OF INFORMATION TECHNOLOGY
+DEPARTMENT OF INFORMATION TECHNOLOGY,
 S.B. JAIN INSTITUTE OF TECHNOLOGY, MANAGEMENT & RESEARCH, NAGPUR.
 
-Key Words— Internet of Things, Mine Surroundings Analyzer, Z-Score
+Key Words— Internet of Things, Mine Surroundings Analyzer, Z-Score, Anomaly Detection
 
 ## PROBLEM STATEMENT
 Toxic gases in Mines leads to various accident resulting in financial & human
